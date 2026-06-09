@@ -15,11 +15,11 @@ This project analyzes customer shopping behavior using Excel, SQL, Power BI, and
 * Matplotlib
 * Google Colab
 
-## Dashboard Preview
+## Dashboard Preview Power bi
 
 ![Dashboard](customer_shopping_dashboard.png)
 
-## Dashboard Preview
+## Dashboard Preview excel
 
 ![Dashboard](customer_shopping_dashboard_excel.png)
 
