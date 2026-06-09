@@ -19,6 +19,10 @@ This project analyzes customer shopping behavior using Excel, SQL, Power BI, and
 
 ![Dashboard](customer_shopping_dashboard.png)
 
+## Dashboard Preview
+
+![Dashboard](customer_shopping_dashboard_excel.png)
+
 ## Analysis Performed
 
 * Data Cleaning and Preparation
